@@ -4,15 +4,15 @@ Aplikasi sederhana untuk menyortir foto dan video dengan cepat menggunakan short
 
 ---
 
-## ✨ Fitur Utama
+## Fitur
 
-* 🎯 Sortir menggunakan tombol angka `1–0`
-* 📁 Banyak folder tujuan
-* 🏷️ `Copy` atau `Move`
-* ⏸️ **Skip (`S`)** — lewati file
-* ↩️ **Undo (`Backspace`)** — mengembalikan aksi terakhir
-* 💾 **Deferred Execution** — file baru dipindahkan saat menekan **Apply Changes**
-* 🔄 Lanjutkan sesi kapan saja via `sorting_state.json`
+* Sortir menggunakan tombol angka `1–0`
+* Banyak folder tujuan
+* `Copy` atau `Move`
+* **Skip (`S`)** — lewati file
+* **Undo (`Backspace`)** — mengembalikan aksi terakhir
+* **Deferred Execution** — file baru dipindahkan saat menekan **Apply Changes**
+* Lanjutkan sesi kapan saja via `sorting_state.json`
 
 ---
 
