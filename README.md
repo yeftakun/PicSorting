@@ -2,11 +2,13 @@
 
 Menyortir foto dan video dengan cepat menggunakan shortcut keyboard.
 
-<img width="1280" height="380" alt="Flow PicSorting" src="https://github.com/user-attachments/assets/6a208cff-9b4e-48ee-ac88-b45b8bcd3d48" />
+<img width="1280" height="380" alt="Flow PicSorting" src="https://github.com/user-attachments/assets/f6c80df1-b33f-45ea-abb0-eef79317a77a" />
 
 ---
 
 ## Fitur
+
+<img width="1215" height="821" alt="Screenshot 2025-12-05 105427" src="https://github.com/user-attachments/assets/0d08ca80-dff8-4b76-8c88-05ce33f81df9" />
 
 * Sortir menggunakan tombol angka `1–0`
 * Banyak folder tujuan
