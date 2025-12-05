@@ -1,6 +1,6 @@
 # PicSorter
 
-Aplikasi sederhana untuk menyortir foto dan video dengan cepat menggunakan shortcut keyboard. Dibuat untuk workflow yang cepat dan fokus — tanpa drag-and-drop, tanpa buka folder berulang.
+Menyortir foto dan video dengan cepat menggunakan shortcut keyboard — tanpa drag-and-drop, tanpa buka folder berulang.
 
 ---
 
