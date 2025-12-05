@@ -1,6 +1,6 @@
 # PicSorter
 
-Menyortir foto dan video dengan cepat menggunakan shortcut keyboard — tanpa drag-and-drop, tanpa buka folder berulang.
+Menyortir foto dan video dengan cepat menggunakan shortcut keyboard.
 
 ---
 
